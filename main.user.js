@@ -15,7 +15,7 @@
 // @grant            GM_addStyle
 // ==/UserScript==
 
-const yourTwitterName = "ерня";
+const yourTwitterName = "уйня";
 
 (function () {
   "use strict";
